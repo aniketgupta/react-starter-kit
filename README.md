@@ -1,1 +1,1 @@
-# vue-starter-kit
+# react-starter-kit
